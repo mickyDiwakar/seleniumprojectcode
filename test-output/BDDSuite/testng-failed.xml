@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BDDSuite]" data-provider-thread-count="2">
+  <test thread-count="5" name="CRmCromeTest(failed)">
+    <classes>
+      <class name="TestRunners.TestRunner">
+        <methods>
+          <include name="teardownClass"/>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="feature"/>
+        </methods>
+      </class> <!-- TestRunners.TestRunner -->
+    </classes>
+  </test> <!-- CRmCromeTest(failed) -->
+</suite> <!-- Failed suite [BDDSuite] -->

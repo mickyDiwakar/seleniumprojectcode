@@ -1,0 +1,2 @@
+2021-05-06 19:05:543 INFO  ToolsQAWebTablesPage:126 - *******************Add button Clicked on Webtable page****************
+2021-05-06 19:05:261 INFO  RegisterFormPage:66 - ******************submit button clicked***********
